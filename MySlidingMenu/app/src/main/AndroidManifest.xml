@@ -19,6 +19,8 @@
         <activity android:name=".ViewDragSlideMenuActivity"/>
         <activity android:name=".ViewGroupSlideMenuActivity"/>
         <activity android:name=".DrawerLayoutActivity"/>
+        <activity android:name=".LeftAndRightDrawerActivity"/>
+        <activity android:name=".qq.QQLeftAndRightDrawerActivity"/>
     </application>
 
 </manifest>

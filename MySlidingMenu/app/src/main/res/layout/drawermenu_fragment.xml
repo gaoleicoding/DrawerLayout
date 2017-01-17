@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#343333"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp">
+
+            <ImageButton
+                android:id="@+id/menu_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="0dp"
+                android:background="@null"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/user_personal_zone_menu" />
+
+            <TextView
+                android:id="@+id/title_text"
+                android:layout_width="260dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/title"
+                android:textColor="@android:color/black"
+                android:textSize="23sp" />
+
+            <ImageButton
+                android:id="@+id/message_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="0dp"
+                android:layout_toRightOf="@+id/title_text"
+                android:background="@null"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/user_huodong_shouye_xiaoxi_btn" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

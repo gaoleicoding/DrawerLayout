@@ -36,7 +36,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerInParent="true"
-                    android:text="ViewDragHelper型侧滑菜单"
+                    android:text="系统自带DrawerLayout侧滑菜单"
                     android:textColor="#ffffff"
                     android:textSize="16sp" />
             </RelativeLayout>

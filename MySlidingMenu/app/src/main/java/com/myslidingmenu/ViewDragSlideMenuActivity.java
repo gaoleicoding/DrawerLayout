@@ -17,10 +17,11 @@ public class ViewDragSlideMenuActivity extends BaseActivity implements ViewDragS
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_viewdragslidemenu);
+        //设置为透明状态栏后，布局和屏幕顶端没有距离，所以需要，空出状态栏的距离
         setStatusBar();
+
         activity_viewdrag = (ViewDragSlideMenu) findViewById(R.id.activity_viewdrag);
         shadowView = (View) findViewById(shadow);
-
 
         activity_viewdrag.setOnMenuSlideListener(this);
     }

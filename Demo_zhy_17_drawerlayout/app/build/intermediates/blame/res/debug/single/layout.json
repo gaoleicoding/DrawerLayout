@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/build/intermediates/res/merged/debug/layout/layout_menu.xml",
+        "source": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/src/main/res/layout/layout_menu.xml"
+    },
+    {
+        "merged": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/build/intermediates/res/merged/debug/layout/menu_layout_right.xml",
+        "source": "/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/src/main/res/layout/menu_layout_right.xml"
+    }
+]

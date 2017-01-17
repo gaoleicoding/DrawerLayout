@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MySlidingMenu</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="title">主页</string>
+    <string name="left">左边菜单</string>
+    <string name="right">右边菜单</string>
 </resources>

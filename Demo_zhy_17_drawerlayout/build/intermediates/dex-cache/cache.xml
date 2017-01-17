@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_f62cc5948b944fdd860636e22c1a573d3321bc3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gaolei/Work/Software/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/gaolei/EclipseProjects/DrawerLayout/Demo_zhy_17_drawerlayout/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_e21343a3d28f9b2762cb398aaf2e255b02eb9ae0.jar" />
+    </item>
+
+</items>
